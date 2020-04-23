@@ -16,26 +16,26 @@ Result:
 1. log rig:Accuracy on test data for a given model is 0.7935943060498221
 2. decision tree:Accuracy on test data for a given model is 0.8622267412303
 
-3.Learning rate:  0.05
-  Accuracy score (training): 0.809
-  Accuracy score (validation): 0.798
+3. Learning rate:  0.05
+   Accuracy score (training): 0.809
+   Accuracy score (validation): 0.798
 
-  Learning rate:  0.1
-  Accuracy score (training): 0.834
-  Accuracy score (validation): 0.815
+   Learning rate:  0.1
+   Accuracy score (training): 0.834
+   Accuracy score (validation): 0.815
 
-  Learning rate:  0.25
-  Accuracy score (training): 0.887
-  Accuracy score (validation): 0.861
+   Learning rate:  0.25
+   Accuracy score (training): 0.887
+   Accuracy score (validation): 0.861
 
-  Learning rate:  0.5
-  Accuracy score (training): 0.904
-  Accuracy score (validation): 0.883
+   Learning rate:  0.5
+   Accuracy score (training): 0.904
+   Accuracy score (validation): 0.883
 
-  Learning rate:  0.75
-  Accuracy score (training): 0.906
-  Accuracy score (validation): 0.886
+   Learning rate:  0.75
+   Accuracy score (training): 0.906
+   Accuracy score (validation): 0.886
 
-  Learning rate:  1
-  Accuracy score (training): 0.907
-  Accuracy score (validation): 0.883
+   Learning rate:  1
+   Accuracy score (training): 0.907
+   Accuracy score (validation): 0.883
