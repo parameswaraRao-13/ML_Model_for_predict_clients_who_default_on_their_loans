@@ -15,6 +15,7 @@ hmeq.csv: data set for given model.
 Result: 
 1. log rig:Accuracy on test data for a given model is 0.7935943060498221
 2. decision tree:Accuracy on test data for a given model is 0.8622267412303
+
 3.Learning rate:  0.05
   Accuracy score (training): 0.809
   Accuracy score (validation): 0.798
